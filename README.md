@@ -57,6 +57,7 @@ This application can also work offline. If the application looses connectivity, 
 Finally, because this is a Progressive Web Application (PWA), the application can be downloaded to the user's device. This will allow the user to run the application without the need to utilize their browser.
 
 ![Budget Application Demo GIF](./assets/gif/demo.gif "Budget Tracker Demo GIF")
+
 _Gif of using the Budget Tracker application_
 
 ---
